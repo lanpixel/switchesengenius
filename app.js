@@ -87,8 +87,10 @@ function applyFilters() {
         if (filters.igmpSnooping && !sw.igmp_snooping) return false;
 
         // Layer filters
-        if (filters.l2 && !sw.layer.includes('L2')) return false;
+        // L2/L2+ filter doesn't exclude anything (all switches support L2 features)
+        // Static routing filter shows switches with static routing capability
         if (filters.staticRouting && !sw.static_routing) return false;
+        // Dynamic routing filter shows only switches with dynamic routing (RIP/OSPF)
         if (filters.dynamicRouting && !sw.dynamic_routing) return false;
 
         return true;
