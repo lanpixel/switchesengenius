@@ -1,0 +1,1821 @@
+Model Name,CloudSwitch L2Plus 8 PoE,CloudSwitch L2Plus 8 Full PoE ,CloudSwitch L2Plus 24 ,CloudSwitch L2Plus 24 ,CloudSwitch L2Plus 24 PoE,CloudSwitch L2Plus 24 Full PoE ,CloudSwitch L2Plus 48 ,CloudSwitch L2Plus 48 PoE ,CloudSwitch L2Plus 48 Full PoE,CloudSwitch MGPlus 8,CloudSwitch MGPlus 8 Full PoE,CloudSwitch MGPlus 8 Full PoE,CloudSwitch MGPlus 24 Full PoE ,CloudSwitch MGPlus 48 Full PoE ,CloudSwitch Aggregate 8XG,CloudSwitch Aggregate 8XG Full PoE,CloudSwitch Aggregate 12,,,,,,,,,,,
+Model #,ECS1008P,ECS1112FP,ECS1528T,ECS1528,ECS1528P,ECS1528FP,ECS1552,ECS1552P,ECS1552FP,ECS2512,ECS2510FP,ECS2512FP,ECS2528FP,ECS2552FP,ECS5512,ECS5512FP,ECS5512F,,,,,,,,,,,
+Technical Specifications,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Port Standards,"802.3 10Base-T Ethernet
+ 802.3u 100Base-TX Ethernet
+ 802.3ab 1000Base-T Ethernet
+ 802.3x Full-Duplex Flow Control","802.3 10Base-T Ethernet
+ 802.3u 100Base-TX Ethernet
+ 802.3ab 1000Base-T Ethernet
+ 802.3x Full-Duplex Flow Control","802.3 10Base-T Ethernet
+ 802.3u 100Base-TX Ethernet
+ 802.3ab 1000Base-T Ethernet
+ 802.3x Full-Duplex Flow Control","802.3 10Base-T Ethernet
+ 802.3u 100Base-TX Ethernet
+ 802.3ab 1000Base-T Ethernet
+ 802.3x Full-Duplex Flow Control","802.3 10Base-T Ethernet
+ 802.3u 100Base-TX Ethernet
+ 802.3ab 1000Base-T Ethernet
+ 802.3x Full-Duplex Flow Control","802.3 10Base-T Ethernet
+ 802.3u 100Base-TX Ethernet
+ 802.3ab 1000Base-T Ethernet
+ 802.3x Full-Duplex Flow Control","802.3 10Base-T Ethernet
+ 802.3u 100Base-TX Ethernet
+ 802.3ab 1000Base-T Ethernet
+ 802.3x Full-Duplex Flow Control","802.3 10Base-T Ethernet
+ 802.3u 100Base-TX Ethernet
+ 802.3ab 1000Base-T Ethernet
+ 802.3x Full-Duplex Flow Control","802.3 10Base-T Ethernet
+ 802.3u 100Base-TX Ethernet
+ 802.3ab 1000Base-T Ethernet
+ 802.3x Full-Duplex Flow Control","802.3u 100Base-TX Ethernet
+ 802.3ab 1000Base-T Ethernet
+802.3bz 2.5G/5GBase-T Ethernet
+ 802.3x Full-Duplex Flow Control","802.3u 100Base-TX Ethernet
+ 802.3ab 1000Base-T Ethernet
+802.3bz 2.5G/5GBase-T Ethernet
+ 802.3x Full-Duplex Flow Control","802.3u 100Base-TX Ethernet
+ 802.3ab 1000Base-T Ethernet
+802.3bz 2.5G/5GBase-T Ethernet
+ 802.3x Full-Duplex Flow Control","802.3u 100Base-TX Ethernet
+ 802.3ab 1000Base-T Ethernet
+802.3bz 2.5G/5GBase-T Ethernet
+ 802.3x Full-Duplex Flow Control","802.3u 100Base-TX Ethernet
+ 802.3ab 1000Base-T Ethernet
+802.3bz 2.5G/5GBase-T Ethernet
+ 802.3x Full-Duplex Flow Control","802.3u 100Base-TX Ethernet
+ 802.3ab 1000Base-T Ethernet
+802.3bz 2.5G/5GBase-T Ethernet
+ 802.3x Full-Duplex Flow Control","802.3u 100Base-TX Ethernet
+ 802.3ab 1000Base-T Ethernet
+802.3bz 2.5G/5GBase-T Ethernet
+ 802.3x Full-Duplex Flow Control","802.3u 100Base-TX Ethernet
+ 802.3ab 1000Base-T Ethernet
+802.3bz 2.5G/5GBase-T Ethernet
+ 802.3x Full-Duplex Flow Control",,,,,,,,,,,
+"Network Port  -
+Gigabit Ethernet Ports",8x10/100/1000 Mbps Ports ,10x10/100/1000 Mbps Ports ,24x10/100/1000 Mbps Ports ,24x10/100/1000 Mbps Ports ,24x10/100/1000 Mbps Ports ,24x10/100/1000 Mbps Ports ,48x10/100/1000 Mbps Ports ,48x10/100/1000 Mbps Ports,48x10/100/1000 Mbps Ports,-,-,-,16x10/100/1000 Mbps Ports,32x10/100/1000 Mbps Ports,-,-,-,,,,,,,,,,,
+"Network Port - 
+Multi-Gigabit Ethernet Ports",-,-,-,-,-,-,-,-,-,8x100/1000/2500 Mbps Ports,8x100/1000/2500 Mbps Ports,8x100/1000/2500 Mbps Ports,8x 100/1000/2500 Mbps Ports,16x 100/1000/2500 Mbps Ports,8x100/1000/2500/5000/10000 Mbps Ports,8x100/1000/2500/5000/10000 Mbps Ports,-,,,,,,,,,,,
+"Network Port - 
+SFP Ports",-,2x SFP Ports,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,
+"Network Port - 
+SFP+ Ports/",-,-,4x SFP+ Ports,4x SFP+ Ports,4x SFP+ Ports,4x SFP+ Ports,4x SFP+ Ports,4x SFP+ Ports,4x SFP+ Ports,4x SFP+ Ports,2x SFP+ Ports,4x SFP+ Ports,4x SFP+ Ports,4x SFP+ Ports,4x SFP+ Ports,4x SFP+ Ports,12x SFP+ Ports,,,,,,,,,,,
+Network Port - RJ45 Ports,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,
+Switching Capacity,16Gbps,24Gbps,128Gbps,128Gbps,128Gbps,128Gbps,176Gbps,176Gbps,176Gbps,120Gbps,80Gbps,120Gbps,152Gbps,224Gbps,240Gbps,240Gbps,240Gbps,,,,,,,,,,,
+SDRAM,256MB,256MB,512MB,512MB,512MB,512MB,512MB,512MB,512MB,512MB,512MB,512MB,512MB,512MB,512MB,512MB,512MB,,,,,,,,,,,
+Flash Memory,32MB,32MB,128MB,128MB,128MB,128MB,128MB,128MB,128MB,128MB,128MB,128MB,128MB,128MB,128MB,128MB,128MB,,,,,,,,,,,
+PoE Capable Ports,Ports 1-8 (802.3af/at),Ports 1-8 (802.3af/at),-,-,Ports 1-24  (802.3af/at),Ports 1-24  (802.3af/at),-,Ports 1-48  (802.3af/at),Ports 1-48  (802.3af/at),-,Ports 1-8  (802.3af/at),Ports 1-8  (802.3af/at/bt),Ports 1-24  (802.3af/at),Ports 1-48  (802.3af/at),-,Ports 1-8  (up to 90W),-,,,,,,,,,,,
+Total PoE Budget,55W,130W,-,-,240w,410w,-,410w,740w,-,240w,240w,410w,740w,-,410w,-,,,,,,,,,,,
+Power Source,"100 to 240 VAC, 50/60Hz","100 to 240 VAC, 50/60Hz","100 to 240 VAC, 50/60Hz","100 to 240 VAC, 50/60Hz","100 to 240 VAC, 50/60Hz","100 to 240 VAC, 50/60Hz","100 to 240 VAC, 50/60Hz","100 to 240 VAC, 50/60Hz","100 to 240 VAC, 50/60Hz","100 to 240 VAC, 50/60Hz","100 to 240 VAC, 50/60Hz","100 to 240 VAC, 50/60Hz","100 to 240 VAC, 50/60Hz","100 to 240 VAC, 50/60Hz","100 to 240 VAC, 50/60Hz","100 to 240 VAC, 50/60Hz","100 to 240 VAC, 50/60Hz",,,,,,,,,,,
+Physical Interface,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ System Indicators,"Power LED
+Fault LED
+PoE Max LED
+LAN Mode LED
+PoE Mode LED","Power LED
+Fault LED
+PoE Max LED
+LAN Mode LED
+PoE Mode LED","Power LED
+Fault LED
+","Power LED
+Fault LED
+","Power LED
+Fault LED
+PoE Max LED
+LAN Mode LED
+PoE Mode LED","Power LED
+Fault LED
+PoE Max LED
+LAN Mode LED
+PoE Mode LED","Power LED
+Fault LED","Power LED
+Fault LED
+PoE Max LED
+LAN Mode LED
+PoE Mode LED","Power LED
+Fault LED
+PoE Max LED
+LAN Mode LED
+PoE Mode LED","Power LED
+Fault LED","Power LED
+Fault LED
+PoE Max LED
+LAN Mode LED
+PoE Mode LED","Power LED
+Fault LED
+PoE Max LED
+LAN Mode LED
+PoE Mode LED","Power LED
+Fault LED
+PoE Max LED
+LAN Mode LED
+PoE Mode LED","Power LED
+Fault LED
+PoE Max LED
+LAN Mode LED
+PoE Mode LED","Power LED
+Fault LED","Power LED
+Fault LED
+PoE Max LED
+LAN Mode LED
+PoE Mode LED","Power LED
+Fault LED",,,,,,,,,,,
+Port Indicators,Link/Activity/Speed (per Ethernet port),"Link/Activity/Speed (per Ethernet port)
+Link/Activity/Speed (per SFP slot) ","Link/Activity/Speed (per Ethernet port)
+Link/Activity/Speed (per SFP slot) ","Link/Activity/Speed (per Ethernet port)
+Link/Activity/Speed (per SFP slot) ","Link/Activity/Speed (per Ethernet port)
+Link/Activity/Speed (per SFP slot)","Link/Activity/Speed (per Ethernet port)
+Link/Activity/Speed (per SFP slot)","Link/Activity/Speed (per Ethernet port)
+Link/Activity/Speed (per SFP slot)","Link/Activity/Speed (per Ethernet port)
+Link/Activity/Speed (per SFP slot)","Link/Activity/Speed (per Ethernet port)
+Link/Activity/Speed (per SFP slot)","Link/Activity/Speed (per Ethernet port)
+Link/Activity/Speed (per SFP slot)","Link/Activity/Speed (per Ethernet port)
+Link/Activity/Speed (per SFP slot)","Link/Activity/Speed (per Ethernet port)
+Link/Activity/Speed (per SFP slot)","Link/Activity/Speed (per Ethernet port)
+Link/Activity/Speed (per SFP slot)","Link/Activity/Speed (per Ethernet port)
+Link/Activity/Speed (per SFP slot)","Link/Activity/Speed (per Ethernet port)
+Link/Activity/Speed (per SFP slot)","Link/Activity/Speed (per Ethernet port)
+Link/Activity/Speed (per SFP slot)",Link/Activity/Speed (per SFP slot),,,,,,,,,,,
+L3 Software Features,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Multiple IP Interface,20 IPv6 address,20 IPv6 address,20 IPv6 address,20 IPv6 address,20 IPv6 address,20 IPv6 address,20 IPv6 address,20 IPv6 address,20 IPv6 address,20 IPv6 address,20 IPv6 address,20 IPv6 address,20 IPv6 address,20 IPv6 address,20 IPv6 address,20 IPv6 address,20 IPv6 address,,,,,,,,,,,
+ARP Table,Max. 192 ARP entries,Max. 192 ARP entries,Max. 192 ARP entries,Max. 192 ARP entries,Max. 192 ARP entries,Max. 192 ARP entries,Max. 192 ARP entries,Max. 192 ARP entries,Max. 192 ARP entries,Max. 192 ARP entries,Max. 192 ARP entries,Max. 192 ARP entries,Max. 192 ARP entries,"
+Max. 192 ARP entries","
+Max. 192 ARP entries","
+Max. 192 ARP entries","
+Max. 192 ARP entries",,,,,,,,,,,
+IPv4 Static Route,Max. 63 entries,Max. 63 entries,Max. 63 entries,Max. 63 entries,Max. 63 entries,Max. 63 entries,Max. 63 entries,Max. 63 entries,Max. 63 entries,Max. 63 entries,Max. 63 entries,Max. 63 entries,Max. 63 entries,Max. 63 entries,Max. 63 entries,Max. 63 entries,Max. 63 entries,,,,,,,,,,,
+IPv6 Static Route,Max. 21 entries,Max. 21 entries,Max. 21 entries,Max. 21 entries,Max. 21 entries,Max. 21 entries,Max. 21 entries,Max. 21 entries,Max. 21 entries,Max. 21 entries,Max. 21 entries,Max. 21 entries,Max. 21 entries,Max. 21 entries,Max. 21 entries,Max. 21 entries,Max. 21 entries,,,,,,,,,,,
+L2 Software Features,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Network Management,"EnGenius Cloud
+SkyKey
+ezMaster
+Local Web GUI","EnGenius Cloud
+SkyKey
+ezMaster
+Local Web GUI","EnGenius Cloud
+SkyKey
+ezMaster
+Local Web GUI","EnGenius Cloud
+SkyKey
+ezMaster
+Local Web GUI","EnGenius Cloud
+SkyKey
+ezMaster
+Local Web GUI","EnGenius Cloud
+SkyKey
+ezMaster
+Local Web GUI","EnGenius Cloud
+SkyKey
+ezMaster
+Local Web GUI","EnGenius Cloud
+SkyKey
+ezMaster
+Local Web GUI","EnGenius Cloud
+SkyKey
+ezMaster
+Local Web GUI","EnGenius Cloud
+SkyKey
+ezMaster
+Local Web GUI","EnGenius Cloud
+SkyKey
+ezMaster
+Local Web GUI","EnGenius Cloud
+SkyKey
+ezMaster
+Local Web GUI","EnGenius Cloud
+SkyKey
+ezMaster
+Local Web GUI","EnGenius Cloud
+SkyKey
+ezMaster
+Local Web GUI","EnGenius Cloud
+SkyKey
+ezMaster
+Local Web GUI","EnGenius Cloud
+SkyKey
+ezMaster
+Local Web GUI","EnGenius Cloud
+SkyKey
+ezMaster
+Local Web GUI",,,,,,,,,,,
+MAC Address Table,8K,8K,16K,16K,16K,16K,32K,32K,32K,16k,16k,16k,16k,32k,32k,32k,32k,,,,,,,,,,,
+Jumbo frame size,10K,10K,10K,10K,10K,10K,10K,10K,10K,10K,10K,10K,10K,10K,10K,10K,10K,,,,,,,,,,,
+Multicast Group,Max 256 groups,Max 256 groups,Max 256 groups,Max 256 groups,Max 256 groups,Max 256 groups,Max 256 groups,Max 256 groups,Max 256 groups,Max 256 groups,Max 256 groups,Max 256 groups,Max 256 groups,Max 256 groups,Max 256 groups,Max 256 groups,Max 256 groups,,,,,,,,,,,
+MLD Snooping,MLD Snooping: v1,MLD Snooping: v1,MLD Snooping: v1,MLD Snooping: v1,MLD Snooping: v1,MLD Snooping: v1,MLD Snooping: v1,MLD Snooping: v1,MLD Snooping: v1,MLD Snooping: v1,MLD Snooping: v1,MLD Snooping: v1,MLD Snooping: v1,MLD Snooping: v1,MLD Snooping: v1,MLD Snooping: v1,MLD Snooping: v1,,,,,,,,,,,
+QoS-number of Priority Queues Supported,Queue 8,Queue 8,Queue 8,Queue 8,Queue 8,Queue 8,Queue 8,Queue 8,Queue 8,Queue 8,Queue 8,Queue 8,Queue 8,Queue 8,Queue 8,Queue 8,Queue 8,,,,,,,,,,,
+QoS Trust Mode,"Cos/802.1p
+DSCP
+CoS/802.1p-DSCP","Cos/802.1p
+DSCP
+CoS/802.1p-DSCP","Cos/802.1p
+DSCP
+CoS/802.1p-DSCP","Cos/802.1p
+DSCP
+CoS/802.1p-DSCP","Cos/802.1p
+DSCP
+CoS/802.1p-DSCP","Cos/802.1p
+DSCP
+CoS/802.1p-DSCP","Cos/802.1p
+DSCP
+CoS/802.1p-DSCP","Cos/802.1p
+DSCP
+CoS/802.1p-DSCP","Cos/802.1p
+DSCP
+CoS/802.1p-DSCP","Cos/802.1p
+DSCP
+CoS/802.1p-DSCP","Cos/802.1p
+DSCP
+CoS/802.1p-DSCP","Cos/802.1p
+DSCP
+CoS/802.1p-DSCP","Cos/802.1p
+DSCP
+CoS/802.1p-DSCP","Cos/802.1p
+DSCP
+CoS/802.1p-DSCP","Cos/802.1p
+DSCP
+CoS/802.1p-DSCP","Cos/802.1p
+DSCP
+CoS/802.1p-DSCP","Cos/802.1p
+DSCP
+CoS/802.1p-DSCP",,,,,,,,,,,
+Scheduling Mechanism,Strict / WRR/ Strict + WRR,Strict / WRR/ Strict + WRR,Strict / WRR/ Strict + WRR,Strict / WRR/ Strict + WRR,Strict / WRR/ Strict + WRR,Strict / WRR/ Strict + WRR,Strict / WRR/ Strict + WRR,Strict / WRR/ Strict + WRR,Strict / WRR/ Strict + WRR,Strict / WRR/ Strict + WRR,Strict / WRR/ Strict + WRR,Strict / WRR/ Strict + WRR,Strict / WRR/ Strict + WRR,Strict / WRR/ Strict + WRR,Strict / WRR/ Strict + WRR,Strict / WRR/ Strict + WRR,Strict / WRR/ Strict + WRR,,,,,,,,,,,
+Bandwidth Control,Port-based bandwidth control (Ingress/Egress),Port-based bandwidth control (Ingress/Egress),Port-based bandwidth control (Ingress/Egress),Port-based bandwidth control (Ingress/Egress),Port-based bandwidth control (Ingress/Egress),Port-based bandwidth control (Ingress/Egress),Port-based bandwidth control (Ingress/Egress),Port-based bandwidth control (Ingress/Egress),Port-based bandwidth control (Ingress/Egress),Port-based bandwidth control (Ingress/Egress),Port-based bandwidth control (Ingress/Egress),Port-based bandwidth control (Ingress/Egress),Port-based bandwidth control (Ingress/Egress),Port-based bandwidth control (Ingress/Egress),Port-based bandwidth control (Ingress/Egress),Port-based bandwidth control (Ingress/Egress),Port-based bandwidth control (Ingress/Egress),,,,,,,,,,,
+Port Security,Max. 256 Entries,Max. 256 Entries,Max. 256 Entries,Max. 256 Entries,Max. 256 Entries,Max. 256 Entries,Max. 256 Entries,Max. 256 Entries,Max. 256 Entries,Max. 256 Entries,Max. 256 Entries,Max. 256 Entries,Max. 256 Entries,Max. 256 Entries,Max. 256 Entries,Max. 256 Entries,Max. 256 Entries,,,,,,,,,,,
+Access Control List (ACL),"MAC Based ACL
+IPv4/IPv6 Based ACL
+ACL Binding
+Time base ACL","MAC Based ACL
+IPv4/IPv6 Based ACL
+ACL Binding
+Time base ACL","MAC Based ACL
+IPv4/IPv6 Based ACL
+ACL Binding
+Time base ACL","MAC Based ACL
+IPv4/IPv6 Based ACL
+ACL Binding
+Time base ACL","MAC Based ACL
+IPv4/IPv6 Based ACL
+ACL Binding
+Time base ACL","MAC Based ACL
+IPv4/IPv6 Based ACL
+ACL Binding
+Time base ACL","MAC Based ACL
+IPv4/IPv6 Based ACL
+ACL Binding
+Time base ACL","MAC Based ACL
+IPv4/IPv6 Based ACL
+ACL Binding
+Time base ACL","MAC Based ACL
+IPv4/IPv6 Based ACL
+ACL Binding
+Time base ACL","MAC Based ACL
+IPv4/IPv6 Based ACL
+ACL Binding
+Time base ACL","MAC Based ACL
+IPv4/IPv6 Based ACL
+ACL Binding
+Time base ACL","MAC Based ACL
+IPv4/IPv6 Based ACL
+ACL Binding
+Time base ACL","MAC Based ACL
+IPv4/IPv6 Based ACL
+ACL Binding
+Time base AC","MAC Based ACL
+IPv4/IPv6 Based ACL
+ACL Binding
+Time base AC","MAC Based ACL
+IPv4/IPv6 Based ACL
+ACL Binding
+Time base ACL","MAC Based ACL
+IPv4/IPv6 Based ACL
+ACL Binding
+Time base ACL","MAC Based ACL
+IPv4/IPv6 Based ACL
+ACL Binding
+Time base ACL",,,,,,,,,,,
+Web Graphical User Interface (GUI),"HTTP IPv4 / IPv6
+HTTPS IPv4 / IPv6","HTTP IPv4 / IPv6
+HTTPS IPv4 / IPv6","HTTP IPv4 / IPv6
+HTTPS IPv4 / IPv6","HTTP IPv4 / IPv6
+HTTPS IPv4 / IPv6","HTTP IPv4 / IPv6
+HTTPS IPv4 / IPv6","HTTP IPv4 / IPv6
+HTTPS IPv4 / IPv6","HTTP IPv4 / IPv6
+HTTPS IPv4 / IPv6","HTTP IPv4 / IPv6
+HTTPS IPv4 / IPv6","HTTP IPv4 / IPv6
+HTTPS IPv4 / IPv6","HTTP IPv4 / IPv6
+HTTPS IPv4 / IPv6","HTTP IPv4 / IPv6
+HTTPS IPv4 / IPv6","HTTP IPv4 / IPv6
+HTTPS IPv4 / IPv6","HTTP IPv4 / IPv6
+HTTPS IPv4 / IPv6","HTTP IPv4 / IPv6
+HTTPS IPv4 / IPv6","HTTP IPv4 / IPv6
+HTTPS IPv4 / IPv6","HTTP IPv4 / IPv6
+HTTPS IPv4 / IPv6","HTTP IPv4 / IPv6
+HTTPS IPv4 / IPv6",,,,,,,,,,,
+SNMP,SNMP v1/v2c/v3 Support,SNMP v1/v2c/v3 Support,SNMP v1/v2c/v3 Support,SNMP v1/v2c/v3 Support,SNMP v1/v2c/v3 Support,SNMP v1/v2c/v3 Support,SNMP v1/v2c/v3 Support,SNMP v1/v2c/v3 Support,SNMP v1/v2c/v3 Support,SNMP v1/v2c/v3 Support,SNMP v1/v2c/v3 Support,SNMP v1/v2c/v3 Support,SNMP v1/v2c/v3 Support,SNMP v1/v2c/v3 Support,SNMP v1/v2c/v3 Support,SNMP v1/v2c/v3 Support,SNMP v1/v2c/v3 Support,,,,,,,,,,,
+RMON,"RMON 1,2,3,9","RMON 1,2,3,9","RMON 1,2,3,9","RMON 1,2,3,9","RMON 1,2,3,9","RMON 1,2,3,9","RMON 1,2,3,9","RMON 1,2,3,9","RMON 1,2,3,9","RMON 1,2,3,9","RMON 1,2,3,9","RMON 1,2,3,9","RMON 1,2,3,9","RMON 1,2,3,9","RMON 1,2,3,9","RMON 1,2,3,9","RMON 1,2,3,9",,,,,,,,,,,
+System Time,Time Setting/Daylight saving,Time Setting/Daylight saving,Time Setting/Daylight saving,Time Setting/Daylight saving,Time Setting/Daylight saving,Time Setting/Daylight saving,Time Setting/Daylight saving,Time Setting/Daylight saving,Time Setting/Daylight saving,Time Setting/Daylight saving,Time Setting/Daylight saving,Time Setting/Daylight saving,Time Setting/Daylight saving,Time Setting/Daylight saving,Time Setting/Daylight saving,Time Setting/Daylight saving,Time Setting/Daylight saving,,,,,,,,,,,
+Common L2 Features,"802.1D Spanning Tree
+802.1w Rapid Spanning Tree
+802.1S Rapid Spanning Tree
+Loopback Detection
+Multicast Filitering
+IGMP Multicast Forwarding
+IGMP Snooping
+MLD Multicast Forwarding
+802.1Q VLANtagging
+802.3x flow control
+802.3ad Link Aggregation
+IPv4 DHCP Relay
+IPv4 DHCP Snooping
+IPv4 DHCP Snooping Source MAC Address Check-up
+ARP Inspection
+ARP Packet Validation (additional validation checks)
+Voice VLAN
+Port-based VLAN
+Protocol-Based VLAN
+CoS Mapping
+802. 1X Radius Authentication Protocol
+IPv4 Settings/ IPv6 Settings
+IEEE 802. 3az Energy Efficeient Ethernet (EEE)
+Command Line Interface (CLI)
+SSH Server
+Telnet Server
+TFTP Client
+Configuration Upgrade/ Backup
+Simple Network Time Protocol (SNTP)
+SYSLOG
+Broadcast/Unknown Multicast/Unknown Unicast Storm Control ","802.1D Spanning Tree
+802.1w Rapid Spanning Tree
+802.1S Rapid Spanning Tree
+Loopback Detection
+Multicast Filitering
+IGMP Multicast Forwarding
+IGMP Snooping
+MLD Multicast Forwarding
+802.1Q VLAN tagging
+802.3x flow control
+802.3ad Link Aggregation
+IPv4 DHCP Relay
+IPv4 DHCP Snooping
+IPv4 DHCP Snooping Source MAC Address Check-up
+ARP Inspection
+ARP Packet Validation (additional validation checks)
+Voice VLAN
+Port-based VLAN
+Protocol-Based VLAN
+CoS Mapping
+802. 1X Radius Authentication Protocol
+IPv4 Settings/ IPv6 Settings
+IEEE 802. 3az Energy Efficeient Ethernet (EEE)
+Command Line Interface (CLI)
+SSH Server
+Telnet Server
+TFTP Client
+Configuration Upgrade/ Backup
+Simple Network Time Protocol (SNTP)
+SYSLOG
+Broadcast/Unknown Multicast/Unknown Unicast Storm Control ","802.1D Spanning Tree
+802.1w Rapid Spanning Tree
+802.1S Rapid Spanning Tree
+Loopback Detection
+Multicast Filitering
+IGMP Multicast Forwarding
+IGMP Snooping
+MLD Multicast Forwarding
+802.1Q VLAN tagging
+802.3x flow control
+802.3ad Link Aggregation
+IPv4 DHCP Relay
+IPv4 DHCP Snooping
+IPv4 DHCP Snooping Source MAC Address Check-up
+ARP Inspection
+ARP Packet Validation (additional validation checks)
+Voice VLAN
+Port-based VLAN
+Protocol-Based VLAN
+CoS Mapping
+802. 1X Radius Authentication Protocol
+IPv4 Settings/ IPv6 Settings
+IEEE 802. 3az Energy Efficeient Ethernet (EEE)
+Command Line Interface (CLI)
+SSH Server
+Telnet Server
+TFTP Client
+Configuration Upgrade/ Backup
+Simple Network Time Protocol (SNTP)
+SYSLOG
+Broadcast/Unknown Multicast/Unknown Unicast Storm Control ","802.1D Spanning Tree
+802.1w Rapid Spanning Tree
+802.1S Rapid Spanning Tree
+Loopback Detection
+Multicast Filitering
+IGMP Multicast Forwarding
+IGMP Snooping
+MLD Multicast Forwarding
+802.1Q VLAN tagging
+802.3x flow control
+802.3ad Link Aggregation
+IPv4 DHCP Relay
+IPv4 DHCP Snooping
+IPv4 DHCP Snooping Source MAC Address Check-up
+ARP Inspection
+ARP Packet Validation (additional validation checks)
+Voice VLAN
+Port-based VLAN
+Protocol-Based VLAN
+CoS Mapping
+802. 1X Radius Authentication Protocol
+IPv4 Settings/ IPv6 Settings
+IEEE 802. 3az Energy Efficeient Ethernet (EEE)
+Command Line Interface (CLI)
+SSH Server
+Telnet Server
+TFTP Client
+Configuration Upgrade/ Backup
+Simple Network Time Protocol (SNTP)
+SYSLOG
+","802.1D Spanning Tree
+802.1w Rapid Spanning Tree
+802.1S Rapid Spanning Tree
+Loopback Detection
+Multicast Filitering
+IGMP Multicast Forwarding
+IGMP Snooping
+MLD Multicast Forwarding
+802.1Q VLAN tagging
+802.3x flow control
+802.3ad Link Aggregation
+IPv4 DHCP Relay
+IPv4 DHCP Snooping
+IPv4 DHCP Snooping Source MAC Address Check-up
+ARP Inspection
+ARP Packet Validation (additional validation checks)
+Voice VLAN
+Port-based VLAN
+Protocol-Based VLAN
+CoS Mapping
+802. 1X Radius Authentication Protocol
+IPv4 Settings/ IPv6 Settings
+IEEE 802. 3az Energy Efficeient Ethernet (EEE)
+Command Line Interface (CLI)
+SSH Server
+Telnet Server
+TFTP Client
+Configuration Upgrade/ Backup
+Simple Network Time Protocol (SNTP)
+SYSLOG
+Broadcast/Unknown Multicast/Unknown Unicast Storm Control ","802.1D Spanning Tree
+802.1w Rapid Spanning Tree
+802.1S Rapid Spanning Tree
+Loopback Detection
+Multicast Filitering
+IGMP Multicast Forwarding
+IGMP Snooping
+MLD Multicast Forwarding
+802.1Q VLAN tagging
+802.3x flow control
+802.3ad Link Aggregation
+IPv4 DHCP Relay
+IPv4 DHCP Snooping
+IPv4 DHCP Snooping Source MAC Address Check-up
+ARP Inspection
+ARP Packet Validation (additional validation checks)
+Voice VLAN
+Port-based VLAN
+Protocol-Based VLAN
+CoS Mapping
+802. 1X Radius Authentication Protocol
+IPv4 Settings/ IPv6 Settings
+IEEE 802. 3az Energy Efficeient Ethernet (EEE)
+Command Line Interface (CLI)
+SSH Server
+Telnet Server
+TFTP Client
+Configuration Upgrade/ Backup
+Simple Network Time Protocol (SNTP)
+SYSLOG
+Broadcast/Unknown Multicast/Unknown Unicast Storm Control ","802.1D Spanning Tree
+802.1w Rapid Spanning Tree
+802.1S Rapid Spanning Tree
+Loopback Detection
+Multicast Filitering
+IGMP Multicast Forwarding
+IGMP Snooping
+MLD Multicast Forwarding
+802.1Q VLAN tagging
+802.3x flow control
+802.3ad Link Aggregation
+IPv4 DHCP Relay
+IPv4 DHCP Snooping
+IPv4 DHCP Snooping Source MAC Address Check-up
+ARP Inspection
+ARP Packet Validation (additional validation checks)
+Voice VLAN
+Port-based VLAN
+Protocol-Based VLAN
+CoS Mapping
+802. 1X Radius Authentication Protocol
+IPv4 Settings/ IPv6 Settings
+IEEE 802. 3az Energy Efficeient Ethernet (EEE)
+Command Line Interface (CLI)
+SSH Server
+Telnet Server
+TFTP Client
+Configuration Upgrade/ Backup
+Simple Network Time Protocol (SNTP)
+SYSLOG
+Broadcast/Unknown Multicast/Unknown Unicast Storm Control ","802.1D Spanning Tree
+802.1w Rapid Spanning Tree
+802.1S Rapid Spanning Tree
+Loopback Detection
+Multicast Filitering
+IGMP Multicast Forwarding
+IGMP Snooping
+MLD Multicast Forwarding
+802.1Q VLAN tagging
+802.3x flow control
+802.3ad Link Aggregation
+IPv4 DHCP Relay
+IPv4 DHCP Snooping
+IPv4 DHCP Snooping Source MAC Address Check-up
+ARP Inspection
+ARP Packet Validation (additional validation checks)
+Voice VLAN
+Port-based VLAN
+Protocol-Based VLAN
+CoS Mapping
+802. 1X Radius Authentication Protocol
+IPv4 Settings/ IPv6 Settings
+IEEE 802. 3az Energy Efficeient Ethernet (EEE)
+Command Line Interface (CLI)
+SSH Server
+Telnet Server
+TFTP Client
+Configuration Upgrade/ Backup
+Simple Network Time Protocol (SNTP)
+SYSLOG
+Broadcast/Unknown Multicast/Unknown Unicast Storm Control ","802.1D Spanning Tree
+802.1w Rapid Spanning Tree
+802.1S Rapid Spanning Tree
+Loopback Detection
+Multicast Filitering
+IGMP Multicast Forwarding
+IGMP Snooping
+MLD Multicast Forwarding
+802.1Q VLAN tagging
+802.3x flow control
+802.3ad Link Aggregation
+IPv4 DHCP Relay
+IPv4 DHCP Snooping
+IPv4 DHCP Snooping Source MAC Address Check-up
+ARP Inspection
+ARP Packet Validation (additional validation checks)
+Voice VLAN
+Port-based VLAN
+Protocol-Based VLAN
+CoS Mapping
+802. 1X Radius Authentication Protocol
+IPv4 Settings/ IPv6 Settings
+IEEE 802. 3az Energy Efficeient Ethernet (EEE)
+Command Line Interface (CLI)
+SSH Server
+Telnet Server
+TFTP Client
+Configuration Upgrade/ Backup
+Simple Network Time Protocol (SNTP)
+SYSLOG
+Broadcast/Unknown Multicast/Unknown Unicast Storm Control ","802.1D Spanning Tree
+802.1w Rapid Spanning Tree
+802.1S Rapid Spanning Tree
+Loopback Detection
+Multicast Filitering
+IGMP Multicast Forwarding
+IGMP Snooping
+MLD Multicast Forwarding
+802.1Q VLAN tagging
+802.3x flow control
+802.3ad Link Aggregation
+IPv4 DHCP Relay
+IPv4 DHCP Snooping
+IPv4 DHCP Snooping Source MAC Address Check-up
+ARP Inspection
+ARP Packet Validation (additional validation checks)
+Voice VLAN
+Port-based VLAN
+Protocol-Based VLAN
+CoS Mapping
+802. 1X Radius Authentication Protocol
+IPv4 Settings/ IPv6 Settings
+IEEE 802. 3az Energy Efficeient Ethernet (EEE)
+Command Line Interface (CLI)
+SSH Server
+Telnet Server
+TFTP Client
+Configuration Upgrade/ Backup
+Simple Network Time Protocol (SNTP)
+SYSLOG
+Broadcast/Unknown Multicast/Unknown Unicast Storm Control ","802.1D Spanning Tree
+802.1w Rapid Spanning Tree
+802.1S Rapid Spanning Tree
+Loopback Detection
+Multicast Filitering
+IGMP Multicast Forwarding
+IGMP Snooping
+MLD Multicast Forwarding
+802.1Q VLAN tagging
+802.3x flow control
+802.3ad Link Aggregation
+IPv4 DHCP Relay
+IPv4 DHCP Snooping
+IPv4 DHCP Snooping Source MAC Address Check-up
+ARP Inspection
+ARP Packet Validation (additional validation checks)
+Voice VLAN
+Port-based VLAN
+Protocol-Based VLAN
+CoS Mapping
+802. 1X Radius Authentication Protocol
+IPv4 Settings/ IPv6 Settings
+IEEE 802. 3az Energy Efficeient Ethernet (EEE)
+Command Line Interface (CLI)
+SSH Server
+Telnet Server
+TFTP Client
+Configuration Upgrade/ Backup
+Simple Network Time Protocol (SNTP)
+SYSLOG
+Broadcast/Unknown Multicast/Unknown Unicast Storm Control ","802.1D Spanning Tree
+802.1w Rapid Spanning Tree
+802.1S Rapid Spanning Tree
+Loopback Detection
+Multicast Filitering
+IGMP Multicast Forwarding
+IGMP Snooping
+MLD Multicast Forwarding
+802.1Q VLAN tagging
+802.3x flow control
+802.3ad Link Aggregation
+IPv4 DHCP Relay
+IPv4 DHCP Snooping
+IPv4 DHCP Snooping Source MAC Address Check-up
+ARP Inspection
+ARP Packet Validation (additional validation checks)
+Voice VLAN
+Port-based VLAN
+Protocol-Based VLAN
+CoS Mapping
+802. 1X Radius Authentication Protocol
+IPv4 Settings/ IPv6 Settings
+IEEE 802. 3az Energy Efficeient Ethernet (EEE)
+Command Line Interface (CLI)
+SSH Server
+Telnet Server
+TFTP Client
+Configuration Upgrade/ Backup
+Simple Network Time Protocol (SNTP)
+SYSLOG
+Broadcast/Unknown Multicast/Unknown Unicast Storm Control ","802.1D Spanning Tree
+802.1w Rapid Spanning Tree
+802.1S Rapid Spanning Tree
+Loopback Detection
+Multicast Filitering
+IGMP Multicast Forwarding
+IGMP Snooping
+MLD Multicast Forwarding
+802.1Q VLAN tagging
+802.3x flow control
+802.3ad Link Aggregation
+IPv4 DHCP Relay
+IPv4 DHCP Snooping
+IPv4 DHCP Snooping Source MAC Address Check-up
+ARP Inspection
+ARP Packet Validation (additional validation checks)
+Voice VLAN
+Port-based VLAN
+Protocol-Based VLAN
+CoS Mapping
+802. 1X Radius Authentication Protocol
+IPv4 Settings/ IPv6 Settings
+IEEE 802. 3az Energy Efficeient Ethernet (EEE)
+Command Line Interface (CLI)
+SSH Server
+Telnet Server
+TFTP Client
+Configuration Upgrade/ Backup
+Simple Network Time Protocol (SNTP)
+SYSLOG
+Broadcast/Unknown Multicast/Unknown Unicast Storm Control ","802.1D Spanning Tree
+802.1w Rapid Spanning Tree
+802.1S Rapid Spanning Tree
+Loopback Detection
+Multicast Filitering
+IGMP Multicast Forwarding
+IGMP Snooping
+MLD Multicast Forwarding
+802.1Q VLAN tagging
+802.3x flow control
+802.3ad Link Aggregation
+IPv4 DHCP Relay
+IPv4 DHCP Snooping
+IPv4 DHCP Snooping Source MAC Address Check-up
+ARP Inspection
+ARP Packet Validation (additional validation checks)
+Voice VLAN
+Port-based VLAN
+Protocol-Based VLAN
+CoS Mapping
+802. 1X Radius Authentication Protocol
+IPv4 Settings/ IPv6 Settings
+IEEE 802. 3az Energy Efficeient Ethernet (EEE)
+Command Line Interface (CLI)
+SSH Server
+Telnet Server
+TFTP Client
+Configuration Upgrade/ Backup
+Simple Network Time Protocol (SNTP)
+SYSLOG
+Broadcast/Unknown Multicast/Unknown Unicast Storm Control ","802.1D Spanning Tree
+802.1w Rapid Spanning Tree
+802.1S Rapid Spanning Tree
+Loopback Detection
+Multicast Filitering
+IGMP Multicast Forwarding
+IGMP Snooping
+MLD Multicast Forwarding
+802.1Q VLAN tagging
+802.3x flow control
+802.3ad Link Aggregation
+IPv4 DHCP Relay
+IPv4 DHCP Snooping
+IPv4 DHCP Snooping Source MAC Address Check-up
+ARP Inspection
+ARP Packet Validation (additional validation checks)
+Voice VLAN
+Port-based VLAN
+Protocol-Based VLAN
+CoS Mapping
+802. 1X Radius Authentication Protocol
+IPv4 Settings/ IPv6 Settings
+IEEE 802. 3az Energy Efficeient Ethernet (EEE)
+Command Line Interface (CLI)
+SSH Server
+Telnet Server
+TFTP Client
+Configuration Upgrade/ Backup
+Simple Network Time Protocol (SNTP)
+SYSLOG
+Broadcast/Unknown Multicast/Unknown Unicast Storm Control ","802.1D Spanning Tree
+802.1w Rapid Spanning Tree
+802.1S Rapid Spanning Tree
+Loopback Detection
+Multicast Filitering
+IGMP Multicast Forwarding
+IGMP Snooping
+MLD Multicast Forwarding
+802.1Q VLAN tagging
+802.3x flow control
+802.3ad Link Aggregation
+IPv4 DHCP Relay
+IPv4 DHCP Snooping
+IPv4 DHCP Snooping Source MAC Address Check-up
+ARP Inspection
+ARP Packet Validation (additional validation checks)
+Voice VLAN
+Port-based VLAN
+Protocol-Based VLAN
+CoS Mapping
+802. 1X Radius Authentication Protocol
+IPv4 Settings/ IPv6 Settings
+IEEE 802. 3az Energy Efficeient Ethernet (EEE)
+Command Line Interface (CLI)
+SSH Server
+Telnet Server
+TFTP Client
+Configuration Upgrade/ Backup
+Simple Network Time Protocol (SNTP)
+SYSLOG
+Broadcast/Unknown Multicast/Unknown Unicast Storm Control ","802.1D Spanning Tree
+802.1w Rapid Spanning Tree
+802.1S Rapid Spanning Tree
+Loopback Detection
+Multicast Filitering
+IGMP Multicast Forwarding
+IGMP Snooping
+MLD Multicast Forwarding
+802.1Q VLAN tagging
+802.3x flow control
+802.3ad Link Aggregation
+IPv4 DHCP Relay
+IPv4 DHCP Snooping
+IPv4 DHCP Snooping Source MAC Address Check-up
+ARP Inspection
+ARP Packet Validation (additional validation checks)
+Voice VLAN
+Port-based VLAN
+Protocol-Based VLAN
+CoS Mapping
+802. 1X Radius Authentication Protocol
+IPv4 Settings/ IPv6 Settings
+IEEE 802. 3az Energy Efficeient Ethernet (EEE)
+Command Line Interface (CLI)
+SSH Server
+Telnet Server
+TFTP Client
+Configuration Upgrade/ Backup
+Simple Network Time Protocol (SNTP)
+SYSLOG
+Broadcast/Unknown Multicast/Unknown Unicast Storm Control ",,,,,,,,,,,
+Environmental & Physical,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Temperature Range,Operating: 32°F to 104°F (0°C to 40°C),Operating: 32°F to 122°F (0°C to 50°C) ,Operating: 32°F to 122°F (0°C to 50°C) ,Operating: 32°F to 122°F (0°C to 50°C) ,Operating: 32°F to 122°F (0°C to 50°C),Operating: 32°F to 122°F (0°C to 50°C),Operating: 32°F to 122°F (0°C to 50°C),Operating: 32°F to 122°F (0°C to 50°C),Operating: 32°F to 122°F (0°C to 50°C),Operating: 32°F to 122°F (0°C to 50°C),Operating: 32°F to 122°F (0°C to 50°C),Operating: 32°F to 122°F (0°C to 50°C),Operating: 32°F to 122°F (0°C to 50°C),Operating: 32°F to 122°F (0°C to 50°C),Operating: 32°F to 122°F (0°C to 50°C),Operating: 32°F to 122°F (0°C to 50°C),Operating: 32°F to 122°F (0°C to 50°C),,,,,,,,,,,
+Humidity (Non-Condensing),Operating: 5% - 95%,Operating: 5% - 95%,Operating: 5% - 95%,Operating: 5% - 95%,Operating: 5% - 95%,Operating: 5% - 95%,Operating: 5% - 95%,Operating: 5% - 95%,Operating: 5% - 95%,Operating: 5% - 95%,Operating: 5% - 95%,Operating: 5% - 95%,Operating: 5% - 95%,Operating: 5% - 95%,Operating: 5% - 95%,Operating: 5% - 95%,Operating: 5% - 95%,,,,,,,,,,,
+Device Dimensions & Weight,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Device Dimensions & Weights,"Weight: 1.36 lbs. (620 g)
+Length: 9.44” (240 mm)
+Width: 4.13” (105 mm)
+Height: 1.06” (27 mm)","Weight: 4.4 lbs. (1.9 kg)
+Width: 13” (330.20 mm)
+Length: 9” (228.60 mm)
+Height: 1.73” (43.94 mm)","Weight: 4.4 lbs. (1.9 kg)
+Width: 13” (330.20 mm)
+Length: 9” (228.60 mm)
+Height: 1.73” (43.94 mm)","Weight: 8.4 lbs. (3.81 kg)
+Width: 17.32” (440 mm)
+Depth: 10.23” (260 mm)
+Height: 1.73” (44 mm)","Weight: 8.4 lbs. (3.81 kg)
+Width: 17.32” (440 mm)
+Depth: 10.23” (260 mm)
+Height: 1.73” (44 mm)","Weight: 8.5 lbs. (3.9 kg)
+Width: 17.32” (440 mm)
+Depth: 10.23” (260 mm)
+Height: 1.73” (44 mm)","Weight: 8.17 lbs. (3.71kg)
+Width: 17.32 lbs. (440 mm)
+Length: 10.23 lbs. (260 mm)
+Height: 1.73 lbs. (44 mm)","Weight: 8.5 lbs. (3.9 kg)
+Width: 17.32” (440 mm)
+Depth: 10.23” (310 mm)
+Height: 1.73” (44 mm)","Weight: 10.5 lbs. (4.76 kg)
+Width: 17.32” (440 mm)
+Length: 10.23” (310 mm)
+Height: 1.73” (44 mm)","Weight: 5.7Ibs (2.6 kg)
+Width: 9.05” (230 mm)
+Length: 12.99” (330 mm)
+Height: 1.73” (44 mm)","Weight: 5.7Ibs (2.6 kg)
+Width: 9.05” (230 mm)
+Length: 12.99” (330 mm)
+Height: 1.73” (44 mm)
+","Weight: 5.7Ibs (2.6 kg)
+Width: 9.05” (230 mm)
+Length: 12.99” (330 mm)
+Height: 1.73” (44 mm)
+","Weight: 4.7Kg
+Width: 260mm
+Length: 440mm
+Height: 44mm","Weight: 5.9Kg
+Width: 310mm
+Length: 440mm
+Height: 44mm","Weight: 5.7Ibs (2.6 kg)
+Width: 9.05” (230 mm)
+Length: 12.99” (330 mm)
+Height: 1.73” (44 mm)
+","Weight: 5.7Ibs (2.6 kg)
+Width: 9.05” (230 mm)
+Length: 12.99” (330 mm)
+Height: 1.73” (44 mm)
+","Weight: (1.39 kg)
+Width: 8.26”(210 mm)
+Length:9.05” (230 mm)
+Height: 1.73” (44 mm)
+",,,,,,,,,,,
+Package Contents,"1x Cloud Managed Gigabit Switch
+1x Product Card
+1x Power Adapter
+1x Power Cord
+1x Wall Mount Kit
+1x Ground Screw Set","1x Cloud Managed Gigabit Switch
+1x Product Card
+1x Power Cord
+1x RJ45 Console Cable
+1x Rack Mount Kit","1x Cloud Managed Gigabit Switch
+1x Product Card
+1x Power Cord
+1x RJ45 Console Cable
+1x Rack Mount Kit","1x ECS Managed Gigabit Switch
+1x Product Card
+1x Power Cord
+1x RJ45 Console Cable
+1x Rack Mount Kit","1x Cloud Managed Gigabit Switch
+1x Product Card
+1x Power Cord
+1x RJ45 Console Cable
+1x Rack Mount Kit","1x Cloud Managed Gigabit Switch
+1x Product Card
+1x Power Cord
+1x RJ45 Console Cable
+1x Rack Mount Kit","1x Cloud Managed Gigabit Switch
+1x Product Card
+1x Power Cord
+1x RJ45 Console Cable
+1x Rack Mount Kit","1x Cloud Managed Gigabit Switch
+1x Product Card
+1x Power Cord
+1x RJ45 Console Cable
+1x Rack Mount Kit","1x Cloud Managed Gigabit Switch
+1x Product Card
+1x Power Cord
+1x RJ45 Console Cable
+1x Rack Mount Kit","1x Cloud Managed Gigabit Switch
+1x Product Card
+1x Power Cord
+1x RJ45 Console Cable
+1x Rack Mount Kit","1x Cloud Managed Gigabit Switch
+1x Product Card
+1x Power Cord
+1x RJ45 Console Cable
+1x Rack Mount Kit","1x Cloud Managed Gigabit Switch
+1x Product Card
+1x Power Cord
+1x RJ45 Console Cable
+1x Rack Mount Kit","1x ECS Managed Gigabit Switch
+1x Product Card
+1x Power Cord
+1x RJ45 Console Cable
+1x Rack Mount Kit","1x ECS Managed Gigabit Switch
+1x Product Card
+1x Power Cord
+1x RJ45 Console Cable
+1x Rack Mount Kit","1x Cloud Managed Gigabit Switch
+1x Product Card
+1x Power Cord
+1x RJ45 Console Cable
+1x Rack Mount Kit","1x Cloud Managed Gigabit Switch
+1x Product Card
+1x Power Cord
+1x RJ45 Console Cable
+1x Rack Mount Kit","1x Cloud Managed Gigabit Switch
+1x Product Card
+1x Power Cord
+1x RJ45 Console Cable
+1x Rack Mount Kit",,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
