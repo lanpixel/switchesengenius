@@ -584,7 +584,29 @@ document.addEventListener('keydown', (event) => {
     }
 });
 
+// Sync checkboxes with number inputs
+// When number > 0, check the box. When 0, uncheck it.
+function syncCheckboxWithNumber(numberId, checkboxId) {
+    const numberInput = document.getElementById(numberId);
+    const checkbox = document.getElementById(checkboxId);
+
+    if (numberInput && checkbox) {
+        numberInput.addEventListener('input', () => {
+            const value = parseInt(numberInput.value) || 0;
+            checkbox.checked = value > 0;
+            applyFilters();
+        });
+    }
+}
+
 // Initialize the application
 document.addEventListener('DOMContentLoaded', () => {
     loadSwitchesData();
+
+    // Set up auto-checkbox syncing for port type filters
+    syncCheckboxWithNumber('min-gigabit', 'filter-gigabit');
+    syncCheckboxWithNumber('min-multigig', 'filter-multigig');
+    syncCheckboxWithNumber('min-10gig', 'filter-10gig');
+    syncCheckboxWithNumber('min-sfp', 'filter-sfp');
+    syncCheckboxWithNumber('min-sfp-plus', 'filter-sfp-plus');
 });

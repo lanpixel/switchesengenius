@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EnGenius Tools - Home</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            width: 100%;
+        }
+
+        .header {
+            text-align: center;
+            color: white;
+            margin-bottom: 50px;
+        }
+
+        .header h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+            font-weight: 700;
+            text-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+        }
+
+        .header p {
+            font-size: 1.3em;
+            opacity: 0.9;
+        }
+
+        .tools-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 30px;
+            margin-top: 40px;
+        }
+
+        .tool-card {
+            background: white;
+            border-radius: 20px;
+            padding: 40px;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            text-decoration: none;
+            color: inherit;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 250px;
+        }
+
+        .tool-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+        }
+
+        .tool-icon {
+            font-size: 4em;
+            margin-bottom: 20px;
+            filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.1));
+        }
+
+        .tool-title {
+            font-size: 1.5em;
+            font-weight: 700;
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        .tool-description {
+            font-size: 0.95em;
+            color: #666;
+            line-height: 1.6;
+        }
+
+        /* Different gradient colors for each tool */
+        .tool-card:nth-child(1) {
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+            color: white;
+        }
+
+        .tool-card:nth-child(1) .tool-title,
+        .tool-card:nth-child(1) .tool-description {
+            color: white;
+        }
+
+        .tool-card:nth-child(2) {
+            background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+            color: white;
+        }
+
+        .tool-card:nth-child(2) .tool-title,
+        .tool-card:nth-child(2) .tool-description {
+            color: white;
+        }
+
+        .tool-card:nth-child(3) {
+            background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
+            color: white;
+        }
+
+        .tool-card:nth-child(3) .tool-title,
+        .tool-card:nth-child(3) .tool-description {
+            color: white;
+        }
+
+        .tool-card:nth-child(4) {
+            background: linear-gradient(135deg, #fa709a 0%, #fee140 100%);
+            color: white;
+        }
+
+        .tool-card:nth-child(4) .tool-title,
+        .tool-card:nth-child(4) .tool-description {
+            color: white;
+        }
+
+        .footer {
+            text-align: center;
+            color: white;
+            margin-top: 50px;
+            opacity: 0.8;
+        }
+
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 2em;
+            }
+
+            .header p {
+                font-size: 1.1em;
+            }
+
+            .tools-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .tool-card {
+                min-height: 200px;
+                padding: 30px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>EnGenius Tools</h1>
+            <p>Professional network equipment selection tools</p>
+        </div>
+
+        <div class="tools-grid">
+            <!-- Tool 1: Switch Comparison -->
+            <a href="#" class="tool-card" id="switch-comparison">
+                <div class="tool-icon">🔄</div>
+                <div class="tool-title">Switch Comparison Tool</div>
+                <div class="tool-description">Compare multiple switches side by side</div>
+            </a>
+
+            <!-- Tool 2: Camera AI Token Calculator -->
+            <a href="#" class="tool-card" id="camera-calculator">
+                <div class="tool-icon">📹</div>
+                <div class="tool-title">Camera AI Token Calculator</div>
+                <div class="tool-description">Calculate AI token requirements for cameras</div>
+            </a>
+
+            <!-- Tool 3: Switch Filter -->
+            <a href="index.html" class="tool-card" id="switch-filter">
+                <div class="tool-icon">🔍</div>
+                <div class="tool-title">Switch EnGenius Filter</div>
+                <div class="tool-description">Find the perfect switch for your needs</div>
+            </a>
+
+            <!-- Tool 4: Access Point Comparison -->
+            <a href="#" class="tool-card" id="ap-comparison">
+                <div class="tool-icon">📡</div>
+                <div class="tool-title">Access Point Comparison Tool</div>
+                <div class="tool-description">Compare wireless access points</div>
+            </a>
+        </div>
+
+        <div class="footer">
+            <p>© 2024 EnGenius Technologies. All rights reserved.</p>
+        </div>
+    </div>
+
+    <script src="tool-config.js"></script>
+    <script>
+        // Use URLs from config file
+        const toolUrls = TOOL_URLS;
+
+        // Update href attributes from config
+        document.addEventListener('DOMContentLoaded', () => {
+            document.querySelectorAll('.tool-card').forEach(card => {
+                const id = card.id;
+                const url = toolUrls[id];
+
+                // Update the href
+                if (url && url !== '#') {
+                    card.href = url;
+                }
+
+                // Add click handler for unconfigured tools
+                card.addEventListener('click', function(e) {
+                    if (this.href === '#' || this.href.endsWith('#')) {
+                        e.preventDefault();
+                        alert('This tool is not yet configured.\n\nPlease edit tool-config.js and set the URL for: ' + id);
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
