@@ -163,7 +163,7 @@ function generateModalContent(sw) {
             <span class="modal-badge">${sw.layer}</span>
             ${sw.managed ? '<span class="modal-badge success">Managed</span>' : ''}
             ${sw.poe_support ? '<span class="modal-badge success">PoE</span>' : ''}
-            ${sw.dynamic_routing ? '<span class="modal-badge success">L3 Dinámico</span>' : ''}
+            ${sw.dynamic_routing ? '<span class="modal-badge success">L3 Dynamic</span>' : ''}
         </div>
 
         <!-- Puertos -->
@@ -237,13 +237,13 @@ function generateModalContent(sw) {
             </div>
         </div>
 
-        <!-- Features de Red -->
+        <!-- Network Features -->
         <div class="modal-section">
-            <h3>🌐 Features de Red</h3>
+            <h3>🌐 Network Features</h3>
             <div class="feature-list">
                 <div class="feature-item ${sw.managed ? 'active' : 'inactive'}">
                     <span class="feature-icon">${sw.managed ? '✓' : '✗'}</span>
-                    <span>Switch Managed</span>
+                    <span>Managed Switch</span>
                 </div>
                 <div class="feature-item ${sw.dhcp_relay ? 'active' : 'inactive'}">
                     <span class="feature-icon">${sw.dhcp_relay ? '✓' : '✗'}</span>
@@ -299,7 +299,7 @@ function generateModalContent(sw) {
             </div>
         </div>
 
-        <!-- Gestión -->
+        <!-- Management -->
         ${sw.management_interfaces && sw.management_interfaces.length > 0 ? `
             <div class="modal-section">
                 <h3>🖥️ Management Interfaces</h3>
@@ -311,9 +311,9 @@ function generateModalContent(sw) {
             </div>
         ` : ''}
 
-        <!-- Features Avanzadas L2 -->
+        <!-- Advanced L2 Features -->
         <div class="modal-section">
-            <h3>🔧 Features L2 Avanzadas</h3>
+            <h3>🔧 Advanced L2 Features</h3>
             <div class="feature-list">
                 ${sw.vlan_support ? `
                     <div class="feature-item active">
@@ -411,7 +411,7 @@ function generateModalContent(sw) {
             <h3>📊 Total Ports Summary</h3>
             <div style="background: #f8f9fa; padding: 20px; border-radius: 10px;">
                 <div style="font-size: 2em; font-weight: bold; color: #667eea; margin-bottom: 10px;">
-                    ${sw.gigabit_ports + sw.multi_gigabit_ports + sw.ten_gig_ports + sw.sfp_ports + sw.sfp_plus_ports} ports totales
+                    ${sw.gigabit_ports + sw.multi_gigabit_ports + sw.ten_gig_ports + sw.sfp_ports + sw.sfp_plus_ports} total ports
                 </div>
                 <div style="color: #666;">
                     ${sw.gigabit_ports > 0 ? `${sw.gigabit_ports} Gigabit` : ''}
@@ -515,7 +515,7 @@ function createSwitchCard(sw) {
                     <div class="spec-item">
                         <div class="spec-icon">💨</div>
                         <div>
-                            <div class="spec-label">Capacidad</div>
+                            <div class="spec-label">Capacity</div>
                             <div class="spec-value">${sw.switching_capacity}</div>
                         </div>
                     </div>
@@ -525,7 +525,7 @@ function createSwitchCard(sw) {
                     <div class="spec-item">
                         <div class="spec-icon">⚙️</div>
                         <div>
-                            <div class="spec-label">Gestión</div>
+                            <div class="spec-label">Management</div>
                             <div class="spec-value">Managed</div>
                         </div>
                     </div>
@@ -535,8 +535,8 @@ function createSwitchCard(sw) {
                     <div class="spec-item">
                         <div class="spec-icon">🛣️</div>
                         <div>
-                            <div class="spec-label">Enrutamiento</div>
-                            <div class="spec-value">Estático L3</div>
+                            <div class="spec-label">Routing</div>
+                            <div class="spec-value">Static L3</div>
                         </div>
                     </div>
                 ` : ''}
@@ -545,8 +545,8 @@ function createSwitchCard(sw) {
                     <div class="spec-item">
                         <div class="spec-icon">🔀</div>
                         <div>
-                            <div class="spec-label">Enrutamiento</div>
-                            <div class="spec-value">Dinámico L3</div>
+                            <div class="spec-label">Routing</div>
+                            <div class="spec-value">Dynamic L3</div>
                         </div>
                     </div>
                 ` : ''}
